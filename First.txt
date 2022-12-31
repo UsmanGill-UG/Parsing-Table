@@ -1,0 +1,25 @@
+PROG	def	
+PROG1	def	~	
+DEC	def	
+COL	:	
+KEY	def	
+VARDEC	~	id	
+VARDECNE	id	
+VARDECNE1	,	~	
+BLOCK	{	
+ENE	print	for	while	if	(	num	str	float	int	id	~	
+EXP	(	num	if	while	for	print	str	float	int	id	
+EXP1	~	(	=	
+EXP2	print	for	while	if	(	num	str	float	int	id	
+EPP2	input	
+KEYWORD	int	float	str	
+QUOTES	“	
+STRING	num	
+STRING1	id	~	
+ARGS	print	for	while	if	(	num	str	float	int	id	~	
+ARGSNE	print	for	while	if	(	num	str	float	int	id	
+ARGSNE1	,	~	
+OPLIT	in	notin	
+IDFR	id	
+INTLIT	num	
+BINOP	==	<	>	<=	>=	+	*	-	%	/	and	or	!=	
